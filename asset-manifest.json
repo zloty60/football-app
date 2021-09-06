@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/football-app/static/js/main.562f5ecf.chunk.js",
+    "main.js.map": "/football-app/static/js/main.562f5ecf.chunk.js.map",
+    "runtime-main.js": "/football-app/static/js/runtime-main.542e8881.js",
+    "runtime-main.js.map": "/football-app/static/js/runtime-main.542e8881.js.map",
+    "static/css/2.679831fc.chunk.css": "/football-app/static/css/2.679831fc.chunk.css",
+    "static/js/2.ed1eef91.chunk.js": "/football-app/static/js/2.ed1eef91.chunk.js",
+    "static/js/2.ed1eef91.chunk.js.map": "/football-app/static/js/2.ed1eef91.chunk.js.map",
+    "index.html": "/football-app/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/football-app/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.ed1eef91.chunk.js.LICENSE.txt": "/football-app/static/js/2.ed1eef91.chunk.js.LICENSE.txt",
+    "static/media/arrow-back.39940f16.svg": "/football-app/static/media/arrow-back.39940f16.svg",
+    "static/media/arrow-forward.ce694b68.svg": "/football-app/static/media/arrow-forward.ce694b68.svg",
+    "static/media/facebook.6c8d91b1.svg": "/football-app/static/media/facebook.6c8d91b1.svg",
+    "static/media/globe.45c50f8a.svg": "/football-app/static/media/globe.45c50f8a.svg",
+    "static/media/twitter.e9c0d792.svg": "/football-app/static/media/twitter.e9c0d792.svg",
+    "static/media/youtube.f10445f2.svg": "/football-app/static/media/youtube.f10445f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.542e8881.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.ed1eef91.chunk.js",
+    "static/js/main.562f5ecf.chunk.js"
+  ]
+}
